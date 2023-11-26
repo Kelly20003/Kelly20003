@@ -9,7 +9,7 @@
 
 ##
 
-*Ingressei minha carreira no curso de Ciências da Computação no ano de 2023, desde então estou dando meus primeiros passos nessa incrível jornada. Atualmente, esse perfil conta com alguns projetos que envolvem Python, javaScript, CSS, HTML, entre outras. Apesar de, ser um iniciante no GitHub, vi por meio dele uma oportunidade de trazer mais transparência na minha  jornada de aprendizado. Me sinto empolgada em compartilhar projetos e receber feedbacks construtivos da comunidade.*
+*Ingressei minha carreira no curso de Ciências da Computação no ano de 2023, desde então estou dando meus primeiros passos nessa incrível jornada. Atualmente, esse perfil conta com alguns projetos que envolvem Python, javaScript, CSS, HTML, entre outras. Apesar de, ser um iniciante no GitHub, vi por meio dele, uma oportunidade de trazer mais transparência na minha  jornada de aprendizado. Me sinto empolgada em compartilhar projetos e receber feedbacks construtivos da comunidade.*
 ##
 ![Kelly GitHub stats](https://github-readme-stats.vercel.app/api?username=kelly20003&show_icons=true&theme=dracula&count_private=true)
   ##
