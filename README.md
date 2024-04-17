@@ -14,7 +14,8 @@
 ![Kelly GitHub stats](https://github-readme-stats.vercel.app/api?username=kelly20003&show_icons=true&theme=dracula&count_private=true)
   ##
 <div> 
-  <a href = "kellyantunes04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "kellyantunes04@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/kelly-antunes77/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
