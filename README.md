@@ -19,6 +19,6 @@
  <a href="https://www.linkedin.com/in/kelly-antunes77/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="kelly20003.github.io/Portf-lio-pessoal/" target="_blank">
+<a href="https://kelly20003.github.io/Portf-lio-pessoal/" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
 </a>
