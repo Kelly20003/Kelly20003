@@ -1,4 +1,4 @@
-![Front-end web development](https://www.canva.com/design/DAGD0586bH4/4lNAfLGBKYkaYXKsBa-dKA/watch?utm_content=DAGD0586bH4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![](https://www.canva.com/design/DAGD0586bH4/4lNAfLGBKYkaYXKsBa-dKA/watch?utm_content=DAGD0586bH4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Hello world, I'm Kelly Antunes 
 (<img src="capa" alt="Cherry Blossom" width="25" height="25" />´◡`<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />)
