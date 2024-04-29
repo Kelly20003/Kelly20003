@@ -1,5 +1,8 @@
 ## Hello world, I'm Kelly Antunes
+<div style="display: inline_block>
 <img src="capa git.mp4">
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="kelly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="kelly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
