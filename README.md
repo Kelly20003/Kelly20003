@@ -1,7 +1,7 @@
-## Hello world, I'm Kelly Antunes 
+![](https://www.canva.com/design/DAGD0586bH4/HZfcMhlGiVP1ATIQ7vaOqw/edit?utm_content=DAGD0586bH4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<div class="capa"
-  <img scr="https://www.canva.com/design/DAGD0586bH4/4lNAfLGBKYkaYXKsBa-dKA/watch?utm_content=DAGD0586bH4&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+# Hi there! I'm Kelly Antunes 
+
 
 
 <div style="display: inline_block"><br>
