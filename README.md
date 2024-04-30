@@ -1,6 +1,6 @@
 ![Desenvolvedora front-end (1)](https://github.com/Kelly20003/Kelly20003/blob/main/Banner%20para%20linkedin%20com%20c%C3%ADrculos%20minimalista%20cinza.png?raw=true)
 
-(https://readme-typing-svg.herokuapp.com?font=Garamond&weight=900&size=32&duration=4000&pause=1000&color=E5F7F4&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello+world%2C+I'm+Kelly+Antunes+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Garamond&weight=900&size=32&duration=4000&pause=1000&color=E5F7F4&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello+world%2C+I'm+Kelly+Antunes+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Brazil%2C+Para%C3%ADba+%F0%9F%8C%B1;Women+in+technology+%F0%9F%91%A9%F0%9F%8F%BB%F0%9F%91%A9%F0%9F%8F%BD;Computer+science+student%F0%9F%93%9A)](https://git.io/typing-svg)
 
