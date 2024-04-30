@@ -17,6 +17,18 @@ Welcome, I'm happy to share my projects with all of you through github. My progr
 ### <img src="https://github.com/Kelly20003/Kelly20003/assets/126263054/66eb1309-bef1-4f90-8250-b292601947fa" alt="Butterfly" width="30" height="30" /> My purpose
 If you can dream it you can do it.
 
+## Contatos:
+
+<div>
+<a href = "mailto:kellyantunes04@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/kelly-antunes77" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div>
+<a href="https://github.com/Kelly20003">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly20003&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kelly20003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ![snake gif](https://github.com/kelly20003/kelly20003/blob/output/github-contribution-grid-snake.svg)
 
