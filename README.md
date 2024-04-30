@@ -18,7 +18,7 @@ Welcome, I'm happy to share my projects with all of you through github. My progr
 If you can dream it you can do it.
 
 
-![Snake animation](https://github.com/Kelly20003/Kelly20003/blob/main/.github/workflows/cobrinha.yml)
+![snake animation](https://github.com/<Kelly20003>/<Kelly20003>/blob/output/github-contribution-grid-snake2.svg)
 
 
 
