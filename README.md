@@ -2,9 +2,11 @@
 
 # Hi guys, I'm Kelly 🌵
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=781266&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Women+in+technology.;Brazil%2C+Para%C3%ADba;Studying+is+investing+in+your+future.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Brazil%2C+Para%C3%ADba+%F0%9F%8C%B1;Women+in+technology+%F0%9F%91%A9%F0%9F%8F%BB%F0%9F%91%A9%F0%9F%8F%BD;Computer+science+student%F0%9F%93%9A)](https://git.io/typing-svg)
 
 Welcome, I'm happy to share my projects with all of you through github. My programming journey began in 2022, but became official in 2023, when I joined the Computer Science course at Cruzeiro do Sul, remotely. Throughout this journey, I was able to discover myself and chart a path that I want to achieve, to be a professional of the future, I seek to improve myself by adopting new knowledge and skills. Currently, I have a wide range of practical skills in the area. I dream of, one day, becoming one of the female leaders in this unequal environment, I want to influence women to become great protagonists.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=E5F7F4&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Just+keep+walking.%F0%9F%A4%B8%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F%F0%9F%8F%83%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F;It+comes+from+an+indomitable+will.)](https://git.io/typing-svg)
 
 <img align="right" alt="" height="300px" src="https://i.pinimg.com/originals/a8/62/69/a862699754b532ac90b0c9f0ca60b894.gif">
 
@@ -30,7 +32,7 @@ If you can dream it you can do it.
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kelly20003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake gif](https://github.com/kelly20003/kelly20003/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
