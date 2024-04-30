@@ -18,7 +18,7 @@ Welcome, I'm happy to share my projects with all of you through github. My progr
 If you can dream it you can do it.
 
 
-![snake animation](https://github.com/<Kelly20003>/<Kelly20003>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/kelly20003/kelly20003/blob/output/github-contribution-grid-snake.svg)
 
 
 
