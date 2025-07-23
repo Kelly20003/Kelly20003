@@ -1,20 +1,19 @@
-# ✨ Bem-vindo ao meu perfil do GitHub ✨
+
+![Banner de apresentação animado](https://github.com/Kelly20003/Kelly20003/blob/5dbb22e0f68550d0be7a29557810b411ec95e52b/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.mp4.gif?raw=true)
 
 ### Olá, me chamo Kelly 👋
 
 Um pouco sobre mim:
 
-* Sou um(a) **[Sua Profissão]** apaixonado(a) por [Sua Paixão] 🚀
+* Sou uma **futura Analista de Dados** apaixonada por **contar histórias por meio de dados** 🚀
 * Sou brasileira e moro em Campina Grande 🇧🇷
 * Adoro me conectar com pessoas do mundo todo e colaborar em projetos inovadores 🌎
-* Atualmente estou estudando para Analista de Dados  📚
+* Atualmente estou estudando para Analista de Dados 📚
 * Sim, sou um pouco viciada em café ☕
 
 ---
 
 ### 💻 Tecnologias e Ferramentas
-
-Aqui você pode listar as tecnologias que domina. Veja como adicionar os ícones:
 
 <p align="left">
   <a href="https://skillicons.dev/icons?i=powerbi"><img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI"/></a>
@@ -26,11 +25,11 @@ Aqui você pode listar as tecnologias que domina. Veja como adicionar os ícones
   <a href="https://skillicons.dev/icons?i=figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></a>
 </p>
 
-
 ---
 
 ### 📫 Onde me encontrar:
 
-[![www.linkedin.com/in/kelly-antunes77](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-antunes77/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7A5DB3?style=for-the-badge&logo=briefcase&logoColor=white)](https://kelly20003.github.io/dados-kelly/)
 
 ---
