@@ -1,35 +1,40 @@
 
 ![Banner de apresentação animado](https://github.com/Kelly20003/Kelly20003/blob/5dbb22e0f68550d0be7a29557810b411ec95e52b/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.mp4.gif?raw=true)
 
-### Olá, me chamo Kelly 👋
+# Olá, me chamo Kelly 👋
 
-Um pouco sobre mim:
+### AI Engineer | GenAI & LLM Applications | Data Science
 
-* Sou uma **futura Analista de Dados** apaixonada por **contar histórias por meio de dados** 🚀
-* Sou brasileira e moro em Campina Grande 🇧🇷
-* Adoro me conectar com pessoas do mundo todo e colaborar em projetos inovadores 🌎
-* Atualmente estou estudando para Analista de Dados 📚
-* Sim, sou um pouco viciada em café ☕
+- 🚀 Trabalho com **IA Generativa e Dados** na **Accenture**, construindo aplicações com LLMs, busca semântica e automação de processos
+- 🎓 Cursando o **8º período de Ciência da Computação**
+- 🇧🇷  **Campina Grande - PB**
+- 🌎 Adoro me conectar com pessoas do mundo todo e colaborar em projetos inovadores
+- 📚 Estudando sempre: LLMs, agentes, RAG, avaliação de modelos e MLOps
 
----
-
-### 💻 Tecnologias e Ferramentas
-
-<p align="left">
-  <a href="https://skillicons.dev/icons?i=powerbi"><img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI"/></a>
-  <a href="https://skillicons.dev/icons?i=html"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"/></a>
-  <a href="https://skillicons.dev/icons?i=css"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>
-  <a href="https://skillicons.dev/icons?i=js"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
-  <a href="https://skillicons.dev/icons?i=py"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
-  <a href="https://skillicons.dev/icons?i=mysql"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL"/></a>
-  <a href="https://skillicons.dev/icons?i=figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></a>
-</p>
 
 ---
 
-### 📫 Onde me encontrar:
+## 🛠️ Tecnologias
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-antunes77/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7A5DB3?style=for-the-badge&logo=briefcase&logoColor=white)](https://kelly20003.github.io/dados-kelly/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+## 🔭 Em que tenho trabalhado
+
+- 🤖 Assistentes conversacionais com LLM e fluxos de agentes (LangGraph)
+- 🔎 Busca híbrida (lexical + embeddings) em catálogos técnicos
+- 🛡️ Guardrails para reduzir alucinação: validação de saída e evidência obrigatória
+- 📄 Extração e validação de dados de documentos (PDF)
+- 📊 Governança de dados mestres e análise de dados
+
+## 📫 Vamos conversar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kellyantunes-dados/)
+- 🌐 [Portfólio](https://kelly20003.github.io/dados-kelly/)
+- ✉️ kellyantunes04@gmail.com
+
+> *"Dados contam histórias. A IA ajuda a contá-las melhor."* ✨
